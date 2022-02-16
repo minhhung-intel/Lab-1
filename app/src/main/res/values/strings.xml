@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="pass">password</string>
+    <string name="phone">phone</string>
+</resources>
